@@ -2,6 +2,13 @@
   "name": "sentire-fluent",
   "version": "0.2.1",
   "description": "Sentire logging library - Fluentd transport",
+  "author": {
+    "name": "Joe Lekie",
+    "email": "joe.lekie@gmail.com"
+  },
+  "repository": "jlekie/sentire-fluent",
+  "license": "MIT",
+  "keywords": [ "sentire", "typescript", "logging", "fluentd" ],
   "main": "index.js",
   "types": "./defs/index.d.ts",
   "engines": {
