@@ -1,6 +1,6 @@
 {
   "name": "sentire-fluent",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Sentire logging library - Fluentd transport",
   "author": {
     "name": "Joe Lekie",
